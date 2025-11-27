@@ -3,6 +3,7 @@
 Apresentar de forma simples e prática os principais recursos do Discord, desde a criação da conta até a configuração inicial de um servidor, incluindo canais, cargos e funções básicas de administração.
 
 ## Módulo 1 – Primeiros Passos no Discord
+• Apresentação do Curso e Boas vindas
 • O que é o Discord e para que serve  
 • Criando sua conta  
 • Configuração inicial do perfil e privacidade/segurança  
