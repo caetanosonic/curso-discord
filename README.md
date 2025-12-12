@@ -1,4 +1,4 @@
-# Ementa – Curso Introdução ao Discord
+# Curso Introdução ao Discord
 ## Objetivo Geral
 Apresentar de forma simples e prática os principais recursos do Discord, desde a criação da conta até a configuração inicial de um servidor, incluindo canais, cargos e funções básicas de administração.
 
@@ -35,3 +35,7 @@ Ao final do curso, o aluno terá autonomia para:
 • Utilizar todos os recursos essenciais de comunicação  
 • Criar e organizar seu próprio servidor  
 • Configurar permissões, cargos e funções básicas de administração
+
+---
+
+## Links Úteis
